@@ -1,5 +1,5 @@
 
-[![Header](https://raw.githubusercontent.com/rajamal/rajamal/master/images/header.png "Header")]
+![Header](https://raw.githubusercontent.com/rajamal/rajamal/master/images/header.png "Header")
 <br />
 
 # Hello, folks! 👋
